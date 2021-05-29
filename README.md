@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gabrielwysoczanski
+- 👋 Hi, I’m Gabriel Wysoczanski
 - 👀 I’m interested in The Leauge of AMAZING and i say amazing programmers.
-- 🌱 I’m currently learning Java Lvl 0
+- 🌱 I’m currently learning Java Lvl 0 Module 0
 - 💞️ I’m looking to collaborate on Java with my brother starting summer 2021.
 - 📫 How to reach me Discord or Microsoft Teams
 
